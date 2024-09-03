@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karan Bansinge</h1>
 <h3 align="center">I'm Karan, a recent graduate in Electronics with a budding passion for full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I love exploring the intersection of hardware and software, and I'm eager to contribute to innovative projects that make a difference.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400">
