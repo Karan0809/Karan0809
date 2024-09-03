@@ -30,7 +30,7 @@ I'm continuously expanding my skills in web development and exploring advanced c
 
 ### 🤝 Let's Connect
 
-- **LinkedIn:** [Karan's LinkedIn] https://www.linkedin.com/in/karan-mern-stack/
+- **LinkedIn:** https://www.linkedin.com/in/karan-mern-stack/
 - **Email:** karanbansinge8@gmail.com
 
 I'm open to collaboration and eager to work on exciting projects that can push the boundaries of what's possible with the MERN stack. Let's build something amazing together!
