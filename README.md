@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Karan! 👋
 
-<!--
-**Karan0809/Karan0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`MERN Stack Developer | Electronics Graduate`**
 
-Here are some ideas to get you started:
+I'm Karan, a recent graduate in Electronics with a budding passion for full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I love exploring the intersection of hardware and software, and I'm eager to contribute to innovative projects that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+
+- **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySql
+- **Version Control:** Git, GitHub
+- **Others:** REST APIs, JSON, Postman
+
+---
+
+### 🌱 Currently Learning
+
+I'm continuously expanding my skills in web development and exploring advanced concepts.
+
+---
+
+### 📈 GitHub Stats
+
+![Karan0809's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan0809&show_icons=true&theme=radical)
+
+---
+
+### 🤝 Let's Connect
+
+- **LinkedIn:** [Karan's LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/karan-mern-stack/))
+- **Email:** karanbansinge8@gmail.com
+
+I'm open to collaboration and eager to work on exciting projects that can push the boundaries of what's possible with the MERN stack. Let's build something amazing together!
