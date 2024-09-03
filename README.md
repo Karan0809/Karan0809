@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karan Bansinge</h1>
 <h3 align="center">I'm Karan, a recent graduate in Electronics with a budding passion for full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I love exploring the intersection of hardware and software, and I'm eager to contribute to innovative projects that make a difference.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400">
@@ -9,13 +9,14 @@
 
 - 🌱 I’m currently learning **I'm continuously expanding my skills in web development and exploring advanced concepts.**
 
-- 💬 Ask me about **react, express, python**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **karanbansinge8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karanbansinge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan bansinge" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karanbansinge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanbansinge" height="30" width="40" /></a>
+<a href="https://instagram.com/___mr_karan.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mr_karan.08" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/karanbansinge8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karanbansinge8" height="30" width="40" /></a>
 </p>
 
