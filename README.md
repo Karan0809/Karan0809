@@ -1,5 +1,5 @@
 # Hi there, I'm Karan! 👋
-
+<hr>
 **`MERN Stack Developer | Electronics Graduate`**
 
 I'm Karan, a recent graduate in Electronics with a budding passion for full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I love exploring the intersection of hardware and software, and I'm eager to contribute to innovative projects that make a difference.
