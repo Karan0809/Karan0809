@@ -3,10 +3,9 @@
 <h3 align="center">I'm Karan, a recent graduate in Electronics with a budding passion for full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I love exploring the intersection of hardware and software, and I'm eager to contribute to innovative projects that make a difference.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan0809&label=Profile%20views&color=0e75b6&style=flat" alt="karan0809" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **I'm continuously expanding my skills in web development and exploring advanced concepts.**
+- 🌱 I'm **continuously expanding my skills in web development and exploring advanced concepts.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karan0809](https://github.com/Karan0809)
 
